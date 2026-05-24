@@ -1,6 +1,6 @@
 # To Do App
 
-Simple single-file Anuha's To Do App (vanilla JS) that persists data in `localStorage`.
+Simple single-file To Do App (vanilla JS) that persists data in `localStorage`.
 
 How to run
 

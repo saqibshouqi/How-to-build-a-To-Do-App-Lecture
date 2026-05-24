@@ -1,4 +1,4 @@
-# Anuha's To Do App
+# To Do App
 
 Simple single-file Anuha's To Do App (vanilla JS) that persists data in `localStorage`.
 

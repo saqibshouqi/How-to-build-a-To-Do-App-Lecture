@@ -16,7 +16,7 @@ Features
 - Clear completed
 - Persistent storage via `localStorage`
 
-Next steps:
+Next steps
 
 - Add syncing backend (optional)
 - Add tests or keyboard accessibility improvements
